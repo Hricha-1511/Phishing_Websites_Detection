@@ -1,0 +1,20 @@
+# Phishing_Websites_Detection
+PHISHING WEBSITES DETECTION USING MACHINE LEARNING
+
+
+
+Steps to Complete any Data Science Project.
+
+
+STEP_1 Understanding and Framing the problem is the first step of the data Science Life Cycle
+
+STEP_2 Data Collection ---- This step is about collection of right dataset in CSV or EXCEL or JSON file.
+
+STEP_3 Data Cleaning--- In this step eliminate duplicates and null values,also corrupt datatypes,invalid entries,missing data,and improper formatting
+STEP_4 Exploratory Data Analysis(EDA)
+
+STEP_5 Feature Engineering
+
+STEP_6 Data Modelling
+
+STEP_7 Model Deployment And Maintainance
