@@ -1,0 +1,52 @@
+CASE STUDY
+Phishing is a form of fraud in which the attacker tries to learn sensitive information such as login credentials or account information by sending as a reputable entity or person in email or other communication channels. Typically a victim receives a message that appears to have been sent by a known contact or organization. The message contains malicious software targeting the user’s computer or has links to direct victims to malicious websites in order to trick them into divulging personal and financial information, such as passwords, account IDs or credit card details.
+
+In this notebook we will see what all features can we derive and use from the domain/URL of a website to detect whether it is phishing or not. First of all let us understand the breakdown of a URL.
+
+Here in this project we will be uisng diffrent Machine Learnig Models ie base models and Ensemble techiaues to perform Supervised Machine Learninf Classifaction between Legitimate and Phishing Websites. We will be using Classification models like Logistic Regression Classifier
+
+     Decision Tree Classifier
+     
+     Random Forest CLassifier
+     
+     Boosting And Bagging techniques
+
+     Principal Component Analysis 
+
+     EVALUATION METRIC FOR CLASSIFICATION PROBLEM
+Accuracy: is defined as the number of correct predictions divided by the total number of predictions.
+
+F1-Score: is a measure of a model’s accuracy on a dataset. It is used to evaluate binary classification systems, which classify examples into “positive” or “negative”.
+
+True Positive (TP): the total number of times the classifier classifies a URL as phishing, and it is correctly a phishing URL.
+
+True Negative (TN): the total number of times the classifier classifies a URL as not phishing or legitimate, and it is correctly not a phishing URL.
+
+False Positive (FP): the total number of times the classifier classifies a URL as a phishing URL, but it is not a phishing URL.
+
+False Negative (FN): the total number of times the classifier classifies a URL as not a phishing URL, but it is a phishing URL.
+
+Precision: It is implied as to the measure of the correctly identified positive cases from all the predicted positive cases. Therefore, it is useful when the cost of False Positives is high (this will be used to calculate F1-score).
+
+Recall: It is the measure of the correctly identified positive cases from all the actual positive cases. It is important when the cost of False Negatives is high (this will be used to calculate the F1-score).
+
+STEP1 - IMPORTING LIBRARIES
+STEP-2 Data Preprocessing And EDA
+STEP-3 VISUALIZING DATA
+STEP_4 Training and Modelling using ML models
+STEP_5 Prediction on Test Set
+STEP_6 Evaluate the model accuracy 
+STEP_7 Evaluate the model accuracy with PCA
+
+
+
+
+
+
+
+
+
+
+
+
+
